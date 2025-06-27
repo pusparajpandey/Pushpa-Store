@@ -1,0 +1,41 @@
+/*
+ Theme Name:   Astra Child - Pushpa Store
+ Template:     astra
+ Version:      1.0.0
+ Description:  Child theme for Pushpa Store e-commerce website
+ Author:       Grok
+*/
+@import url("../astra/style.css");
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header, footer {
+  background-color: #d1d5db; /* Silver theme */
+  color: #1f2937;
+}
+
+a:hover {
+  color: #f59e0b; /* Yellow hover for contrast */
+}
+
+.product-card {
+  transition: transform 0.3s;
+  background-color: #e5e7eb; /* Light silver for product cards */
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+}
+
+button, .btn {
+  background-color: #d1d5db; /* Silver buttons */
+  color: #1f2937;
+}
+
+button:hover, .btn:hover {
+  background-color: #9ca3af; /* Darker silver on hover */
+}

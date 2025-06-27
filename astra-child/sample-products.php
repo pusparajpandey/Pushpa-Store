@@ -1,0 +1,5 @@
+name,sku,regular_price,description,short_description,stock_status,categories,images
+"Steel Water Bottle",PS001,450,"Capacity: 1 Liter, Leak Proof, Ideal for school, office, travel","1L Leak Proof Water Bottle","instock","Home Essentials","https://via.placeholder.com/800x800?text=Steel+Water+Bottle"
+"Non-Stick Frying Pan",PS002,1200,"Durable non-stick coating, 24cm, perfect for everyday cooking","24cm Non-Stick Frying Pan","instock"," Kitchen Items","https://via.placeholder.com/800x800?text=Frying+Pan"
+"Wireless Earbuds",PS003,2500,"Bluetooth 5.0, 6-hour battery life, noise cancellation","Wireless Earbuds with Noise Cancellation","instock","Electronics & Accessories","https://via.placeholder.com/800x800?text=Earbuds"
+"Face Cream",PS004,600,"Hydrating face cream for all skin types, 50ml","50ml Hydrating Face Cream","instock","Personal Care","https://via.placeholder.com/800x800?text=Face+Cream"
